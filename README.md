@@ -10,7 +10,7 @@ Most of my real work has been in private/internal repos since entering the indus
 
 ## 🛠️ How It Works
 The script:
-- Loops through each day from Jan 1, 2023 to 2024
+- Loops through each day from Jan 1, 2023 to Jan 1, 2025
 - Makes 5 commits per day to a simple text file
 - Sets the commit date manually to match each day
 
