@@ -6,7 +6,7 @@ import subprocess
 # --- Configuration ---
 # The script assumes it's run from the root of the git repository.
 REPO_PATH = '.' 
-START_DATE = datetime.date(2023, 1, 1)
+START_DATE = datetime.date(2025, 1, 1)
 # Use the current date provided in the context
 END_DATE = datetime.date(2025, 4, 24) 
 DUMMY_FILE_NAME = "activity_log.txt"
